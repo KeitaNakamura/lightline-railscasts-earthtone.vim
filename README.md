@@ -1,0 +1,1 @@
+# lightline-railscasts-earthtone.vim
