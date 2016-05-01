@@ -1,6 +1,6 @@
 # lightline-railscasts-earthtone.vim
 
-[lightline.vim](https://github.com/itchyny/lightline.vim) colorscheme compatibled with [railscasts-earthtone.vim](https://github.com/KeitaNakamura/railscasts-earthtone.vim).
+[lightline.vim](https://github.com/itchyny/lightline.vim) colorscheme for [railscasts-earthtone.vim](https://github.com/KeitaNakamura/railscasts-earthtone.vim).
 
 ## Installation
 ### Vundle
