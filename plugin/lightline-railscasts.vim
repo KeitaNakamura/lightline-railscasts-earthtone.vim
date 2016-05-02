@@ -1,4 +1,4 @@
-" Color palette from railscasts-earthtone
+" Color palette from railscasts
 " gui
 let s:base4       = "#2b2b2b"
 let s:base3       = "#353535"
@@ -82,4 +82,4 @@ let s:p.tabline.left = [
 let s:p.tabline.tabsel = [
             \ [s:lime, s:base4, s:c_lime, s:c_base4]]
 
-let g:lightline#colorscheme#railscasts_earthtone#palette = s:p
+let g:lightline#colorscheme#railscasts#palette = s:p
